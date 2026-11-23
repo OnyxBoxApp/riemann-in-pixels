@@ -6,6 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/OnyxBoxApp/riemann-in-pixels/releases/tag/v1"><b>Download the picture</b></a> ·
+<a href="https://onyxsafebox.com/175187">See it on the web</a> ·
 <a href="https://apps.apple.com/us/app/onyx-box/id6798628929">Onyx Box on the App Store</a>
 </p>
 
